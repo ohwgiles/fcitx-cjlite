@@ -109,12 +109,10 @@ anmwg 闉
 anmwv 闄
 annhx 閻
 annkg 閮
-annsd 
 ano 閃
 anog 閵
 anok 暌
 anomr 閤
-anoog 
 anoog 䦟
 anooo 閦
 anorm 闟
@@ -331,7 +329,6 @@ bfqf 鰧
 bfqg 塍
 bfqi 螣
 bfqm 腾
-bfqm 
 bfqr 謄
 bfqu 腃
 bfqv 媵
@@ -460,7 +457,6 @@ bkms 胯
 bkn 胰
 bkog 雞
 bkoo 脥
-bkpym 
 bkpym 䴗
 bkq 军
 bks 肋
@@ -572,7 +568,6 @@ boomf 赊
 bopd 胣
 bopi 购
 bopo 账
-boqmb 
 boqmb 䞍
 borhu 贶
 bos 胙
@@ -599,7 +594,6 @@ bqkk 腠
 bqmb 腈
 bqmf 膆
 bqmv 脿
-bqni 
 bqnl 郓
 bqo 肤
 bqu 甩
@@ -674,7 +668,6 @@ bufbf 矘
 bufbg 瞠
 bufd 眯
 bufdq 瞵
-bufdv 
 bufdv 䁖
 buff 睒
 bufh 眇
@@ -994,7 +987,6 @@ chpr 銽
 chpym 鹈
 chqo 鉄
 chs 鈩
-chsm 
 chsm 䥇
 chuc 鑽
 chud 鎳
@@ -1028,7 +1020,6 @@ cipp 鋱
 cir 鈶
 cis 鈩
 cism 翁
-cism 
 cism 䥇
 citc 鐮
 cite 鍍
@@ -1335,7 +1326,6 @@ dbb 棚
 dbbm 栅
 dbdb 棘
 dbhu 枧
-dbk 
 dbk 㭎
 dbln 刺
 dbmr 桐
@@ -1984,7 +1974,6 @@ eyhn 沆
 eyho 濒
 eyiu 流
 eyk 汶
-eyk 
 eyk 㳠
 eykl 济
 eykn 浏
@@ -2672,7 +2661,6 @@ hdice 稄
 hdid 秫
 hdiih 穇
 hdijc 秫
-hdikh 
 hdile 穅
 hdir 秮
 hdirm 稢
@@ -3093,7 +3081,6 @@ hnnsh 飏
 hnot 簦
 hnp 愆
 hnpru 飑
-hnpym 
 hnpym 䴘
 hnq 掣
 hnryo 躗
@@ -3839,7 +3826,6 @@ ipipp 麤
 iplmi 螚
 ipm 式
 ipmbr 麢
-ipmk 
 ipmk 䶮
 ipmmo 贰
 ipmmv 麎
@@ -3935,7 +3921,6 @@ ivhgu 诜
 ivhhi 谢
 ivhjd 诛
 ivhjr 话
-ivhml 
 ivhml 䜣
 ivhmr 诟
 ivhmy 诉
@@ -4032,7 +4017,6 @@ ivtbh 谫
 ivtca 谱
 ivtct 谥
 ivtkr 诺
-ivtlf 
 ivtlf 䜩
 ivtlm 谨
 ivtmd 谋
@@ -5240,7 +5224,6 @@ lllv 褸
 llmb 师
 llml 片
 llmn 片
-llmo 
 llmy 裶
 lln 弗
 llnsh 畅
@@ -5374,13 +5357,11 @@ lsmmm 闫
 lsnhx 阎
 lsnjk 阚
 lsnok 阕
-lsnsd 
 lsnsd 䦶
 lsnvm 闯
 lsnwu 阄
 lso 闪
 lsoi 阀
-lsoog 
 lsp 闷
 lsqs 闱
 lsr 问
@@ -5790,7 +5771,6 @@ mnjoc 殡
 mnl 邛
 mnlbk 殃
 mnlmi 蛩
-mnlmo 
 mnln 列
 mnlq 肂
 mnmbc 頂
@@ -5803,7 +5783,6 @@ mnomm 殓
 mnonh 殇
 mnp 死
 mnpa 殉
-mnpym 
 mnpym 䴕
 mnr 可
 mnrbo 殒
@@ -6747,7 +6726,6 @@ nmher 骆
 nmhhw 骝
 nmhjr 鳤
 nmhkl 骄
-nmhpl 
 nmhpl 䲟
 nmhvf 鲧
 nmhwp 骢
@@ -6823,7 +6801,6 @@ nmpr 驹
 nmpru 鲍
 nmptd 鲽
 nmpu 鲀
-nmqka 
 nmqka 䲠
 nmqmb 鲭
 nmrrs 鳄
@@ -6838,7 +6815,6 @@ nmsme 骎
 nmsmi 鲟
 nmsnd 骣
 nmsu 危
-nmtcw 
 nmtcw 䲡
 nmtjs 鳓
 nmtmc 骐
@@ -7346,7 +7322,6 @@ onnme 氯
 onnom 氢
 onog 雂
 onqmb 氰
-onsm 
 ontq 氧
 onu 氙
 onvne 氯
@@ -7395,7 +7370,6 @@ opbon 铡
 opbu 钼
 opbuc 貨
 opbuc 貸
-opbue 
 opbue 䦆
 opcnh 锑
 opcru 锐
@@ -7457,12 +7431,10 @@ opike 钹
 opilb 镛
 opipf 镳
 opipp 铽
-opism 
 opism 䦂
 opitc 镰
 opite 镀
 opiv 钺
-opive 
 opj 华
 opjbc 镇
 opjbf 镲
@@ -7513,7 +7485,6 @@ opmt 钘
 opmtc 铔
 opmtn 铏
 opmto 镢
-opmvh 
 opmvh 䥺
 opmwf 镖
 opmwj 镡
@@ -7582,7 +7553,6 @@ optca 镨
 optco 镤
 optct 镒
 optgk 镁
-optja 
 optja 䦃
 optkr 锘
 optlk 锳
@@ -7594,7 +7564,6 @@ optyv 铓
 opu 岱
 opubb 镚
 opusu 铠
-opuu 
 opv 钕
 opvr 铷
 opvvv 镴
@@ -7871,7 +7840,6 @@ pmym 怔
 pn 忆
 pnbq 懈
 png 忸
-pnsm 
 po 长
 poae 愎
 pog 惟
@@ -7963,14 +7931,12 @@ qbcd 探
 qbdi 捋
 qbhaf 鶄
 qbjmo 靛
-qbk 
 qbkq 挥
 qbme 援
 qbnau 靘
 qbnsd 静
 qbomn 靔
 qbov 撄
-qbpym 
 qbpym 䴖
 qbq 拥
 qbue 攫
@@ -8005,10 +7971,8 @@ qdtt 耕
 qdttb 耩
 qdvii 耭
 qdwlb 耦
-qdwli 
 qdybs 耪
 qec 鋬
-qee 
 qeed 搡
 qeee 掇
 qeii 搔
@@ -8016,7 +7980,6 @@ qeog 摊
 qepfd 麹
 qeq 择
 qeqo 麸
-qes 
 qes 㧟
 qfb 捎
 qfbk 撇
@@ -8202,7 +8165,6 @@ qobhu 规
 qobuu 規
 qodi 拊
 qog 推
-qoge 
 qoge 㩳
 qogs 携
 qohaf 鳺
@@ -8741,7 +8703,6 @@ rrikr 器
 rrmor 嚣
 rrnl 郘
 rrnvm 骂
-rrob 
 rrpym 鹭
 rrr 品
 rrrd 噪
@@ -9258,7 +9219,6 @@ srnl 郡
 srp 慝
 srtq 群
 sryjf 鸊
-sryjm 
 sryjm 䴙
 srytj 辟
 ss 巨
@@ -9657,7 +9617,6 @@ tjc 茓
 tjck 葖
 tjcn 藭
 tjcr 蓉
-tjcs 
 tjcs 䓖
 tjd 蘖
 tjdhe 鞁
@@ -10854,7 +10813,6 @@ vmliu 缆
 vmlln 绋
 vmlmo 缋
 vmlmy 绯
-vmlw 
 vmlw 䌷
 vmlwl 绅
 vmm 红
@@ -11958,7 +11916,6 @@ yfd 迷
 yfdq 遴
 yfe 叔
 yfiku 就
-yfok 
 yg 主
 ygcg 逵
 yggu 遶
@@ -12075,7 +12032,6 @@ ykmpm 斌
 yknl 郊
 ykok 效
 ykpb 遰
-ykpym 
 ykpym 䴔
 ykq 连
 ykr 吝
@@ -12119,7 +12075,6 @@ ymmi 运
 ymmr 言
 ymmu 远
 ymnn 迾
-ymok 
 ymok 䲣
 ymp 此
 ympog 雌
