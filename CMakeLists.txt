@@ -19,5 +19,5 @@ add_custom_command(OUTPUT fcitx-cjlite.mb
 		COMMAND ${TXT2MB} ARGS ${CMAKE_CURRENT_SOURCE_DIR}/fcitx-cjlite.txt ${CMAKE_CURRENT_BINARY_DIR}/fcitx-cjlite.mb)
 add_custom_target(table_data ALL DEPENDS fcitx-cjlite.conf fcitx-cjlite.mb)
 
-install(FILES fcitx-cjlite.conf DESTINATION ${FCITX4_PREFIX}/share/fcitx/table)
-install(FILES fcitx-cjlite.mb DESTINATION ${FCITX4_PREFIX}/share/fcitx/table)
+install(FILES ${CMAKE_CURRENT_BINARY_DIR}/fcitx-cjlite.conf DESTINATION ${FCITX4_PREFIX}/share/fcitx/table)
+install(FILES ${CMAKE_CURRENT_BINARY_DIR}/fcitx-cjlite.mb DESTINATION ${FCITX4_PREFIX}/share/fcitx/table)
