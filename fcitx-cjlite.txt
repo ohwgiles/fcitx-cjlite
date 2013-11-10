@@ -1,3 +1,6 @@
+键码=abcdefghijklmnopqrstuvwxyz
+码长=6
+[数据]
 a 日
 aa 昌
 aaa 晶

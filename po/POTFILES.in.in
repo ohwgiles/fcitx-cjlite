@@ -1,4 +1,4 @@
 # List of source files which contain translatable strings.
 [encoding: UTF-8]
 ./conf.po
-@REL_SOURCE_ROOT@/fcitx-cangjie.conf.in
+@REL_SOURCE_ROOT@/fcitx-cjlite.conf.in

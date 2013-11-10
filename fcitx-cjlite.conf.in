@@ -1,8 +1,8 @@
 [CodeTable]
-UniqueName=fcitx-cangjie
-_Name=Cangjie
+UniqueName=fcitx-cjlite
+_Name=Cangjie Lite
 IconName=cangjie
-File=fcitx-cangjie.mb
+File=fcitx-cjlite.mb
 AdjustOrder=AdjustNone
 UsePY=True
 PYKey=`

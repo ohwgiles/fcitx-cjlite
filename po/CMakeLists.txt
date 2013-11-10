@@ -4,7 +4,7 @@ if ("${REL_SOURCE_ROOT}" STREQUAL "")
     set(REL_SOURCE_ROOT ".")
 endif("${REL_SOURCE_ROOT}" STREQUAL "")
 
-set(POT_FILE fcitx-cangjie.pot)
+set(POT_FILE fcitx-cjlite.pot)
 
 configure_file(POTFILES.in.in ${CMAKE_CURRENT_BINARY_DIR}/POTFILES.in)
 
@@ -12,7 +12,7 @@ extract_fcitx_addon_conf_postring()
 
 add_custom_target(
     pot
-    COMMAND INTLTOOL_EXTRACT=${INTLTOOL_EXTRACT} srcdir=${CMAKE_CURRENT_BINARY_DIR} ${INTLTOOL_UPDATE} --gettext-package fcitx-cangjie --pot
+    COMMAND INTLTOOL_EXTRACT=${INTLTOOL_EXTRACT} srcdir=${CMAKE_CURRENT_BINARY_DIR} ${INTLTOOL_UPDATE} --gettext-package fcitx-cjlite --pot
     WORKING_DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR}
     DEPENDS ${CMAKE_CURRENT_BINARY_DIR}/conf.po
     )
